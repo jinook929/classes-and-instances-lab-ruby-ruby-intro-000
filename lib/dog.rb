@@ -2,6 +2,6 @@ class Dog
   
 end
 
-happy = Dog.new 
+fido = Dog.new 
 Sally = Dog.new
 Yom = Dog.new 
